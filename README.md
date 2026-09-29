@@ -116,6 +116,10 @@ profile/assets/。同名倉庫不會自動成為組織首頁。
 GitHub 官方說明：
 https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile
 
+網站分享預覽由 _config.yml 設定，使用 assets/banner.png（1280 × 640）。
+GitHub Pages 建置時會產生 OG 與 Twitter Card 標籤；更換分享圖時需同步更新尺寸與替代文字。
+這些設定僅作用於 ysgs.app，不會修改 GitHub 倉庫頁面的 Social preview。
+
 banner.svg 為本 Profile 製作的靜態向量圖；遊戲封面取自各作品公開網站：
 assets/airhive.png — https://airhive.ysgs.app/assets/social/og-image.png
 assets/starward-bastion.png — https://starwardbastion.ysgs.app/assets/share-en-630x500.png
