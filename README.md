@@ -122,10 +122,10 @@
 <!--
 維護與部署
 
-這份 README 可直接作為倉庫介紹，所有圖片均使用相對路徑。
-YuStellarGamesStudio 是組織帳號；若要顯示於組織首頁，請將本檔放入公開倉庫
-YuStellarGamesStudio/.github 的 profile/README.md，並將 assets/ 一併放到
-profile/assets/。同名倉庫不會自動成為組織首頁。
+這份 README 用於倉庫介紹與 ysgs.app 官網，保留遊戲介紹及相對路徑圖片。
+不含遊戲介紹的軟體開發向組織 Profile 位於 .github/profile/README.md。
+部署組織首頁時，請將該檔案放入公開倉庫 YuStellarGamesStudio/.github 的
+profile/README.md；不需複製遊戲圖片。目前倉庫的 .github/ 目錄不會自動顯示於組織首頁。
 GitHub 官方說明：
 https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile
 
@@ -133,7 +133,7 @@ https://docs.github.com/en/organizations/collaborating-with-groups-in-organizati
 GitHub Pages 建置時會產生 OG 與 Twitter Card 標籤；更換分享圖時需同步更新尺寸與替代文字。
 這些設定僅作用於 ysgs.app，不會修改 GitHub 倉庫頁面的 Social preview。
 
-banner.svg 為本 Profile 製作的靜態向量圖；遊戲封面取自各作品公開網站：
+banner.svg 為本網站製作的靜態向量圖；遊戲封面取自各作品公開網站：
 assets/airhive.png — https://airhive.ysgs.app/assets/social/og-image.png
 assets/starward-bastion.png — https://starwardbastion.ysgs.app/assets/share-en-630x500.png
 assets/nightreap.png — https://nightreap.ysgs.app/assets/social/nightreap-social.png
