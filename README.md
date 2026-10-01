@@ -19,7 +19,7 @@
 
 ## Choose your world
 
-六個世界，六種心情。選一款，開始玩。
+七個世界，七種心情。選一款，開始玩。
 
 <table>
   <tr>
@@ -100,6 +100,19 @@
       <a href="https://bunnydoom.ysgs.app/"><strong>開始遊戲 ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/YuStellarGamesStudio/BunnyDoom">Source</a>
     </td>
   </tr>
+  <tr>
+    <td width="40%">
+      <a href="https://hiddenshade.ysgs.app/">
+        <img src="./assets/hiddenshade.png" width="100%" alt="藏影迷城：等角視角迷宮中的巡邏者與暖光出口" />
+      </a>
+    </td>
+    <td>
+      <sub>STEALTH / MAZE ESCAPE</sub>
+      <h3>藏影迷城 · HiddenShade</h3>
+      <p>避開巡邏者的視線，躲進暗處，找到暖光出口。迷宮型躲貓貓。</p>
+      <a href="https://hiddenshade.ysgs.app/"><strong>開始遊戲 ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/YuStellarGamesStudio/HiddenShade">Source</a>
+    </td>
+  </tr>
 </table>
 
 <br />
@@ -109,7 +122,7 @@
 遊戲在瀏覽器裡開始，探索不必停在遊戲裡。
 
 - **For players** — 直接打開遊戲連結；遇到問題或有新點子，歡迎到對應專案的 Issues 留言。
-- **For developers** — 六款作品皆公開原始碼，歡迎研究實作；使用與修改請遵循各專案的授權條款。
+- **For developers** — 七款作品皆公開原始碼，歡迎研究實作；使用與修改請遵循各專案的授權條款。
 - **Say hello** — 遊戲交流與合作聯絡：<a href="mailto:to@yustellar.dev">to@yustellar.dev</a>。
 
 ---
@@ -140,5 +153,6 @@ assets/nightreap.png — https://nightreap.ysgs.app/assets/social/nightreap-soci
 assets/bushwhack.png — https://bushwhack.ysgs.app/assets/og-cover.png
 assets/slimegarden.png — https://slimegarden.ysgs.app/assets/og-image.png
 assets/bunnydoom.png — https://bunnydoom.ysgs.app/assets/icons/og.png（轉為 PNG）
+assets/hiddenshade.png — https://hiddenshade.ysgs.app/assets/og.png
 更新作品時，請同步維護封面、替代文字、簡介、遊戲與原始碼連結。
 -->
